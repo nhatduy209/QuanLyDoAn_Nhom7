@@ -1,0 +1,60 @@
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\bin\Debug\ProjectManagement.exe.config
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\bin\Debug\ProjectManagement.exe
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\bin\Debug\ProjectManagement.pdb
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\bin\Debug\EntityFramework.dll
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\bin\Debug\EntityFramework.xml
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project Management.csprojAssemblyReference.cache
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.frmAddGV.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.frmAddProject.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmEditProgress.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmMain.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmMainGUInd.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmMainSearch.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmManageInstructor.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmManageProject.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmManageStudent.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmManageProgress.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmProjectDetail.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmSearchProject.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmAdd_Edit.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Properties.Resources.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmSettings.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmStudentDetail.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project_Management.Views.frmInstructorDetail.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project Management.csproj.GenerateResource.cache
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project Management.csproj.CoreCompileInputs.cache
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\Project Management.csproj.CopyComplete
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\ProjectManagement.exe
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Project Y\Đồ án 01\Đồ án 01\obj\Debug\ProjectManagement.pdb
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\bin\Debug\ProjectManagement.exe.config
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\bin\Debug\ProjectManagement.exe
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\bin\Debug\ProjectManagement.pdb
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\bin\Debug\EntityFramework.dll
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\bin\Debug\EntityFramework.xml
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project Management.csprojAssemblyReference.cache
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.frmAddGV.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.frmAddProject.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmEditProgress.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmMain.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmMainGUInd.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmMainSearch.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmManageInstructor.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmManageProject.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmManageStudent.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmManageProgress.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmProjectDetail.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmSearchProject.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmAdd_Edit.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Properties.Resources.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmSettings.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmStudentDetail.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project_Management.Views.frmInstructorDetail.resources
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project Management.csproj.GenerateResource.cache
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project Management.csproj.CoreCompileInputs.cache
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\Project Management.csproj.CopyComplete
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\ProjectManagement.exe
+C:\Users\ykimc\Desktop\ProjectManagementLTW\Group7\ProjectManagement\Đồ án 01\obj\Debug\ProjectManagement.pdb
